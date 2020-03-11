@@ -1,11 +1,10 @@
 ---
 layout: post
-title:  "Inception Movie"
+title:  "Initial Post"
 author: qauland
-categories: [ film, movie, tutorial ]
-tags: [red, yellow]
+categories: [ welcome, selamat datang ]
 image: assets/images/11.jpg
-description: "My review of Inception movie. Acting, plot and something else in this short description."
+description: "Pos awal."
 featured: true
 hidden: true
 rating: 4.5
