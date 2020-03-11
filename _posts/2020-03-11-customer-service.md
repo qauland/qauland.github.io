@@ -8,7 +8,7 @@ description: "Pos awal."
 featured: true
 hidden: true
 rating: 4.5
-last_modified_at: 2019-12-15
+# last_modified_at: 2019-12-15
 ---
 
 Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! `JSON-LD` ready for review property.
