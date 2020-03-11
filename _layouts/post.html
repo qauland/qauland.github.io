@@ -32,7 +32,7 @@ post_class: post-template
                         {% endif %}
                     </div>
                     <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
-                        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+                        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Ikuti di Twitter</a>
                         <span class="author-description">{{ author.description }}</span>
                     </div>
                 </div>
@@ -87,10 +87,11 @@ post_class: post-template
             <!-- Post Date -->
             <p>
             <small>
-                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>           
+                <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time>
                 {% if page.last_modified_at %}
-                (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+                (Terakhir diperbarui tanggal <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%Y-%m-%d" | date_to_string }}</time>)
                 {% endif %}
+                </span>
                 </small>
             </p>
 
@@ -146,7 +147,16 @@ post_class: post-template
     <div class="container">
         <div id="comments" class="row justify-content-center mb-5">
             <div class="col-md-8">
-                {% include disqus.html %}
+                <div id="hyvor-talk-view"></div>
+                    <script type="text/javascript">
+                        var HYVOR_TALK_WEBSITE = 282; // DO NOT CHANGE THIS 
+                        var HYVOR_TALK_CONFIG = {
+                        url: false,
+                        id: false,
+                        loadMode: 'scroll'
+                        };
+                    </script>
+                    <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
             </div>
         </div>
     </div>
