@@ -21,13 +21,18 @@ a:hover {
     text-decoration: none;
 }
 
+code, kbd, pre, samp {
+    font-family: Inconsolata, monospace;
+    font-size: 1em;
+}
+
 pre {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     border: #E3EDF3 1px solid;
     width: 100%;
     padding: 7px;
-    font-family: monospace, sans-serif;
+    font-family: Inconsolata, monospace;
     font-size: .9rem;
     white-space: pre;
     overflow: auto;
@@ -36,6 +41,11 @@ pre {
     line-height: 1.6;
     color: #333;
     margin-bottom: -rem;
+}
+
+code {
+    color: rgb(0, 0, 0);
+    background-color: rgb(205, 205, 205);
 }
 
 .mediumnavigation {
@@ -305,7 +315,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: 'Patua One', cursive;
+    font-family: Inter, cursive;
 }
 
 .mainheading h1.posttitle {
@@ -685,7 +695,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 }
 
 .article-post .h1,
