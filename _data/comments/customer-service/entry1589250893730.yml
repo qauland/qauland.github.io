@@ -2,7 +2,7 @@ _id: 292f58d0-93f9-11ea-8d01-dfa35abb0cd3
 _parent: 'https://qauland.github.io/customer-service/'
 replying_to: ''
 replying_to_uid: ''
-message: Oh ya keren!
+message: Sistem komentar Staticman-based kini sudah selesai dikerjakan! Sayangnya masih terdapat bug di mana komentator tidak dapat membalas komentar (lihat https://github.com/qauland/qauland.github.io/issues/4).
 name: Qauland
 email: ''
 hp: ''
