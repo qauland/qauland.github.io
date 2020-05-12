@@ -77,3 +77,5 @@ adsense: "disabled"
 lazyimages: "disabled"
 
 exclude: [changelog.md, deleted_code.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
+
+staticman_url: https://staticman-qaulandsbx.herokuapp.com/v2/entry/qauland/qauland.github.io/master/comments
