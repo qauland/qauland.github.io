@@ -47,3 +47,25 @@ ga('send', 'pageview');
 <a href="http://disqus.com" class="dsq-brlink">Sistem komentar diberdayakan oleh <span class="logo-disqus">Disqus</span>.</a>
 </section>
 ```
+
+## post.html
+
+```html
+<!-- Begin Comments
+==================================================
+{% if page.comments != false %}
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                {% include comments.html %}
+            </div>
+        </div>
+    </div>
+{% endif %}
+End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first: 
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+```
