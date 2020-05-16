@@ -76,6 +76,13 @@ adsense: "disabled"
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
+comments:
+    provider: "facebook"
+    facebook:
+        appid: 262394658281996
+        num_posts: 5 # default
+        colorscheme: "light" #default
+
 exclude: [changelog.md, deleted_code.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
 
 staticman_url: https://staticman-qaulandsbx.herokuapp.com/v2/entry/qauland/qauland.github.io/master/comments
