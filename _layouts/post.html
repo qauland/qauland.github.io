@@ -135,16 +135,17 @@ post_class: post-template
 <!-- End Article
 ================================================== -->
 
-{% if page.comments != false %}
+<!-- TODO: Uncomment this later
+{% if page.comments %}
 
     <div id="comments" class="row mb-5">
         <div class="col-md-8">
-            {% include fb-comment.html %}
+	   TODO: Add comment system includes here
         </div>
     </div>
 
 {% endif %}
-
+-->
 
 {% if page.rating %}
 <script type="application/ld+json">
