@@ -6,10 +6,9 @@ categories: [ proyek ]
 image: assets/images/20160305.png
 description: "Daftar berbagai proyek yang akan/sedang/pernah saya kerjakan."
 featured: true
+hidden: true
 comments: true
 ---
-
-# Daftar Proyek
 
 Berikut adalah daftar berbagai proyek yang akan/sedang/pernah saya kerjakan.
 
