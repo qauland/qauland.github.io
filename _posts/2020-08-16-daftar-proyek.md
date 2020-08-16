@@ -31,5 +31,5 @@ Berikut adalah daftar berbagai proyek yang akan/sedang/pernah saya kerjakan.
 
 ## Selesai dikerjakan
 
-* **Desain logo dan *cover* hari ulang tahun ke-20**
+* **Desain logo dan *cover* hari ulang tahun ke-21**
 * **Desain logo *custom* HUT RI ke-75**
