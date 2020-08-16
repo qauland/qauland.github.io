@@ -5,8 +5,7 @@ author: qauland
 categories: [ welcome, selamat datang ]
 image: assets/images/11.jpg
 description: "Pos awal."
-featured: true
-hidden: true
+featured: false
 comments: true
 rating: 4.5
 # last_modified_at: 2019-12-15
