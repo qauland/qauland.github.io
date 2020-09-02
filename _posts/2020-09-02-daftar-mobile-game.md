@@ -5,7 +5,7 @@ author: qauland
 categories: [ mobile, game ]
 description: "Daftar berbagai mobile game yang (seingat saya) pernah saya instal"
 featured: false
-hidden: false
+hidden: true
 comments: true
 ---
 
