@@ -5,20 +5,20 @@ author: qauland
 categories: [ mobile, game ]
 description: "Daftar berbagai mobile game yang (seingat saya) pernah saya instal"
 featured: false
-hidden: true
+hidden: false
 comments: true
 ---
 
 Berikut adalah beberapa *mobile game* yang (seingat saya) pernah saya instal. Mayoritas *game* yang ada di daftar ini diambil dari akun Google Play Games.
 
-Judul *game* yang dicetak **tebal** berarti *game* tersebut sedang diinstal (per 31 Agu 2020).
+Judul *game* yang dicetak **tebal** berarti *game* tersebut sedang diinstal (per 31 Agustus 2020).
 
 Keterangan status: Aktif bermain/pasif bermain.
 
 *Rating* bersifat personal dan tidak mencerminkan kualitas *game* yang sebenarnya.
 
 | Judul                                         | Status    | Pengembang                                        | /10  |
-| --------------------------------------------- | --------- | ------------------------------------------------- | ---- |
+| --------------------------------------------- | :-------: | ------------------------------------------------- | ---: |
 | 2048                                          |           | tpcstld                                           | -    |
 | 2048                                          |           | Estoty Entertainment LLC                          | -    |
 | 8 Ball Pool                                   |           | Miniclip.com                                      | 8    |
@@ -45,7 +45,7 @@ Keterangan status: Aktif bermain/pasif bermain.
 | AVABEL ONLINE                                 |           | Asobimo, Inc.                                     | -    |
 | Balls Brick Breaker                           |           | Arcade Game Maker                                 | 7    |
 | BanG Dream! Girls Band Party!                 | Pasif     | Bushiroad International Pte Ltd_                  | 8    |
-| BanG Dream! Girls Band Party! (Japanese Ver.) |           | Craft Egg, Inc.                                   | 8    |
+| バンドリ！ ガールズバンドパーティ！                |           | Craft Egg, Inc.                                   | 8    |
 | Beats                                         |           | Keripo                                            | -    |
 | Birdie Crush                                  |           | Com2uS                                            | 6    |
 | **Bistro Heroes**                             | **Aktif** | Team Tapas                                        | 7    |
