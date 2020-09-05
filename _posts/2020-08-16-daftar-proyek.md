@@ -3,7 +3,7 @@ layout: post
 title:  "Daftar Proyek"
 author: qauland
 categories: [ proyek ]
-image: assets/images/20160305.png
+image: https://source.unsplash.com/800x350/daily?high-angle-view
 description: "Daftar berbagai proyek yang akan/sedang/pernah saya kerjakan."
 featured: true
 hidden: true
