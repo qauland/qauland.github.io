@@ -918,6 +918,30 @@ table tr:nth-child(2n) {
     background-color: #f7fff7;
 }
 
+table.rouge-table {
+    display: block;
+    width: 100%;
+    overflow: auto;
+}
+
+table.rouge-table th {
+    font-weight: 600;
+}
+
+table.rouge-table td, table.rouge-table th {
+    padding: 0px;
+    border: none;
+}
+
+table.rouge-table tr {
+    background-color: #fff;
+    border-top: none;
+}
+
+table.rouge-table tr:nth-child(2n) {
+    background-color: #fff;
+}
+
 /** Lazy img **/
 .lazyimg {
     display: block;
