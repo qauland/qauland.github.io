@@ -3,6 +3,7 @@ layout: post
 title:  "Daftar Mobile Game yang Pernah Saya Instal"
 author: qauland
 categories: [ mobile, game ]
+image: https://source.unsplash.com/800x350/daily?cell-phone
 description: "Daftar berbagai mobile game yang (seingat saya) pernah saya instal"
 featured: false
 hidden: true
