@@ -20,7 +20,7 @@ Gampang! Ikuti saja langkah-langkah berikut:
 
 > Catatan: Situs BPS kabupaten yang satu dengan yang lain bisa saja berbeda. Langkah-langkah di bawah ini mungkin tidak bisa diterapkan di situs BPS kabupaten lain.
 
-1. Kunjungi situs BPS kabupaten yang diinginkan. Sebagai contoh, saya ingin mencari jumlah penduduk desa **Malei Tojo**, kecamatan **Tojo Barat**, kabupaten **Tojo Una-Una**, maka saya harus mengakses situs BPS kabupaten Tojo Una-Una (https://tojounakab.bps.go.id). Jika Anda tidak mengetahui situs BPS dari kabupaten yang Anda inginkan, cukup Google `bps [nama-kabupaten]`.
+1. Kunjungi situs BPS kabupaten yang diinginkan. Sebagai contoh, saya ingin mencari jumlah penduduk desa **Malei Tojo**, kecamatan **Tojo Barat**, kabupaten **Tojo Una-Una**, maka saya harus mengakses situs BPS kabupaten Tojo Una-Una ([https://tojounakab.bps.go.id](https://tojounakab.bps.go.id)). Jika Anda tidak mengetahui situs BPS dari kabupaten yang Anda inginkan, cukup Google `bps [nama-kabupaten]`.
    
    ![](https://i.postimg.cc/Ss11v8GS/Polish-20201126-203232035.jpg)
    
