@@ -18,7 +18,7 @@ Apakah Anda ingin mencari tau jumlah penduduk dari suatu desa/kelurahan, tapi ma
 
 Gampang! Ikuti saja langkah-langkah berikut:
 
-> Catatan: Situs BPS kabupaten yang satu dengan yang lain bisa saja berbeda. Langkah-langkah di bawah ini mungkin tidak bisa diterapkan di situs BPS kabupaten lain.
+> Catatan: Situs BPS kabupaten yang satu dengan yang lain bisa saja berbeda. Langkah-langkah di bawah ini mungkin tidak bisa diterapkan di situs BPS kabupaten lain. Keakurasian data berada di tangan BPS.
 
 1. Kunjungi situs BPS kabupaten yang diinginkan. Sebagai contoh, saya ingin mencari jumlah penduduk desa **Malei Tojo**, kecamatan **Tojo Barat**, kabupaten **Tojo Una-Una**, maka saya harus mengakses situs BPS kabupaten Tojo Una-Una ([https://tojounakab.bps.go.id](https://tojounakab.bps.go.id)). Jika Anda tidak mengetahui situs BPS dari kabupaten yang Anda inginkan, cukup Google `bps [nama-kabupaten]`.
    
