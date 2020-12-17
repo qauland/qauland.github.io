@@ -273,5 +273,5 @@ Keterangan status: Aktif bermain/Pasif bermain.
 | Yume Academy                            |            | yangss                                            |    -    |
 | ZENONIA 3                               |            | GAMEVIL                                           |    8    |
 | ZigZag                                  |            | Ketchapp                                          |    7    |
-| バンドリ！ガールズバンドパーティ！            |            | Craft Egg, Inc.                                   |    8    |
+| バンドリ！ガールズバンドパーティ！           |            | Craft Egg, Inc.                                   |    8    |
 | ぷちっとくろにくる                         |            | Asobimo, Inc.                                     |    -    |
