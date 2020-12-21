@@ -1,31 +1,31 @@
 ---
 layout: post
-title:  "Initial Post"
+title:  "Ulas (Review) Apapun Menggunakan Mediumish!"
 author: qauland
-categories: [ welcome, selamat datang ]
+tags: [ selamat datang ]
 image: assets/images/11.jpg
-description: "Pos awal."
+description: "Ulas apa saja yang Anda inginkan menggunakan Mediumish."
 featured: false
 comments: true
-rating: 4.5
-# last_modified_at: 2019-12-15
+rating: 3.5
+last_modified_at: 2020-12-22
 ---
 
-Review products, books, movies, restaurant and anything you like on your Jekyll blog with Mediumish! `JSON-LD` ready for review property.
+Buat artikel ulasan produk, buku, film, tempat wisata, dan apapun yang Anda sukai pada blog Jekyll Anda menggunakan [Mediumish](<https://www.wowthemes.net/mediumish-free-jekyll-template/>)! Anda bisa menggunakan *rating* 5-bintang pada artikel ulasan yang Anda tulis. *Rating* 5-bintang ini juga mendukung setengah bintang (mis. 3,5).
 
-#### How to use?
+## Caranya?
 
-It's actually really simple! Add the rating in your YAML front matter. It also supports halfs:
+Mudah saja! Tambahkan `rating` pada bagian awal (*YAML front matter*) pos Anda.
 
 ```html
 ---
 layout: post
-title:  "Inception Movie"
-author: john
-categories: [ film, movie, tutorial ]
-tags: [red, yellow]
-image: assets/images/11.jpg
-description: "My review of Inception movie. Actors, directing and more."
-rating: 4.5
+title:  "Ulasan: Ascendance of a Bookworm"
+author: tetew
+categories: [ ulasan, review ]
+tags: [ seri, animasi, televisi ]
+image: assets/images/honzuki.jpg
+description: "Ulasan saya terhadap Ascendance of a Bookworm, salah satu seri animasi televisi tahun 2019."
+rating: 3.5
 ---
 ```

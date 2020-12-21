@@ -2,7 +2,7 @@
 layout: post
 title:  "Mencari Jumlah Penduduk Suatu Desa/Kelurahan tanpa Harus ke Kantor Desa/Lurah"
 author: qauland
-categories: [ bps ]
+tags: [ bps ]
 image: https://i.postimg.cc/7Y5rwPCt/Polish-20201126-202713160.jpg
 description: "Apakah Anda ingin mencari tau jumlah penduduk dari suatu desa/kelurahan?"
 comments: true
@@ -52,4 +52,4 @@ Gampang! Ikuti saja langkah-langkah berikut:
 
    ![](https://i.postimg.cc/mgZXB86L/Polish-20201126-203520874.png)
 
-9. Dapat! Jadi, jumlah penduduk di desa Malei Tojo adalah 1.391 jiwa.
+9. Dapat! Jadi, jumlah penduduk di desa Malei Tojo adalah **1.391** jiwa.
