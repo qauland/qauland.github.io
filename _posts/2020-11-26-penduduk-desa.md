@@ -52,4 +52,4 @@ Gampang! Ikuti saja langkah-langkah berikut:
 
    ![](https://i.postimg.cc/mgZXB86L/Polish-20201126-203520874.png)
 
-9. Dapat! Jadi, jumlah penduduk di desa Malei Tojo adalah 1.391 jiwa.
+9. Dapat! Jadi, jumlah penduduk di desa Malei Tojo adalah **1.391** jiwa.
