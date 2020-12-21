@@ -11,7 +11,7 @@ rating: 3.5
 last_modified_at: 2020-12-22
 ---
 
-Buat artikel ulasan produk, buku, film, tempat wisata, dan apapun yang Anda sukai pada blog Jekyll Anda menggunakan [Mediumish](<https://www.wowthemes.net/mediumish-free-jekyll-template/>){:target="_blank"}! Anda bisa menggunakan *rating* 5-bintang pada artikel ulasan yang Anda tulis. *Rating* 5-bintang ini juga mendukung setengah bintang (mis. 3,5).
+Buat artikel ulasan produk, buku, film, tempat wisata, dan apapun yang Anda sukai pada blog Jekyll Anda menggunakan [Mediumish](<https://www.wowthemes.net/mediumish-free-jekyll-template/>)! Anda bisa menggunakan *rating* 5-bintang pada artikel ulasan yang Anda tulis. *Rating* 5-bintang ini juga mendukung setengah bintang (mis. 3,5).
 
 ## Caranya?
 
