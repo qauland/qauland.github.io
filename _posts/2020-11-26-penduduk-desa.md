@@ -2,7 +2,7 @@
 layout: post
 title:  "Mencari Jumlah Penduduk Suatu Desa/Kelurahan tanpa Harus ke Kantor Desa/Lurah"
 author: qauland
-categories: [ bps ]
+tags: [ bps ]
 image: https://i.postimg.cc/7Y5rwPCt/Polish-20201126-202713160.jpg
 description: "Apakah Anda ingin mencari tau jumlah penduduk dari suatu desa/kelurahan?"
 comments: true

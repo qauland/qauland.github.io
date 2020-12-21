@@ -2,7 +2,7 @@
 layout: post
 title:  "Daftar Proyek"
 author: qauland
-categories: [ proyek ]
+tags: [ proyek ]
 image: https://source.unsplash.com/800x350/daily?high-angle-view
 description: "Daftar berbagai proyek yang akan/sedang/pernah saya kerjakan."
 featured: true
