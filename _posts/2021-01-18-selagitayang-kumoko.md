@@ -3,7 +3,7 @@ layout: post
 title:  "SelagiTayang: So I'm a Spider, So What?"
 author: qauland
 tags: [ selagitayang, kumo desu ga nani ka, so im a spider so what ]
-image: assets/images/11.jpg
+image: https://i.postimg.cc/rFJ5bYYw/kdg.jpg
 description: "Tulisan singkat terhadap seri animasi So I'm a Spider, So What?"
 featured: false
 comments: true
