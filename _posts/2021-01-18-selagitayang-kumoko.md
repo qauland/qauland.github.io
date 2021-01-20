@@ -7,7 +7,7 @@ image: https://i.postimg.cc/rFJ5bYYw/kdg.jpg
 description: "Tulisan singkat terhadap seri animasi So I'm a Spider, So What?"
 featured: false
 comments: true
-# last_modified_at: 2021-01-18
+last_modified_at: 2021-01-20
 ---
 
 *So I'm a Spider, So What?* (蜘蛛ですが、なにか？/*Kumo desu ga, Nani ka?*) adalah sebuah seri webnovel dan novel ringan/terang/cepat yang ditulis oleh Baba Okina. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (ditulis oleh Kakashi Asahiro, diterbitkan oleh Kadokawa Shoten) pada bulan Desember 2015, serta seri animasi televisi dan *so-called* Crunchyroll Originals oleh studio Millepensee pada bulan Januari 2021.
@@ -25,3 +25,13 @@ Kualitas animasinya Kumoko tidak buruk, tapi tidak juga begitu baik... Saya juga
 Mereka terlalu cepat muncul! Yaa, mungkin supaya Kumoko tidak ngomong sendiri sepanjang episode... Tapi kenapa mereka tiba-tiba tampil dalam usia remaja?! Suasananya juga tidak terlalu... uhh, *lively*? Seperti menonton seri drama yang dilakukan oleh pemeran amatir *\*kemudian penulis dibuang ke dungeon*\*. Oh, saya jadi penasaran dengan peran si naga (saya lupa namanya) di masa depan.
 
 *Millepensee pada bagian 2: "Ooh, jadi kamu cuma baca komiknya saja? Well, too bad!"*
+
+### Episode 2
+
+Seorang Siswi Sombong dan Sering Merundungi Teman Sekelasnya Dikutuk Jadi Naga.
+
+Saya masih penasaran bagaimana bisa dia direinkarnasi jadi naga, karena menurut webnovel-nya *[beeep]*. Tidak, *bro en sis*, dia sedang tidak baik-baik saja.
+
+Akhirnya Kumoko bertemu dengan manusia, cuma kayaknya dia belum sadar kalau si manusia nggak pake bahasa Jepang. Oh, dia juga bertemu dengan sebutir telur... eheheh, saya jadi senyam-senyum sendiri.
+
+Saya baru menonton *opening* dan *ending*-nya di episode ini... buset dah itu *spoiler* bertebaran di mana-mana.
