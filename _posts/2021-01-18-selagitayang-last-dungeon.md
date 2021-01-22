@@ -7,7 +7,7 @@ image: https://i.postimg.cc/VvXWdfRq/ld-temp.jpg
 description: "Tulisan singkat terhadap seri animasi Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town."
 featured: false
 comments: true
-# last_modified_at: 2021-01-18
+last_modified_at: 2021-01-22
 ---
 
 *Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town* (たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語/*Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari*) adalah sebuah seri novel ringan yang judulnya sepanjang jalan kenangan kita s'lalu bergande-- *ehm*, ditulis oleh Satou Toshio. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (diterbitkan oleh Square Enix) pada bulan September 2017, serta seri animasi televisi oleh studio Liden Films pada bulan Januari 2021.
@@ -27,3 +27,9 @@ Komedinya dapat, sih, tapi alur ceritanya rada' aneh. *Also* SIMP! *\*sambil men
 Itu belalang-belalang yang sering muncul kalau digoreng pastilah kenyang seluruh warga kotanya.
 
 Tulisan di episode 1 masih berlaku di episode ini.
+
+### Episode 3
+
+Ndak kaget, saya sudah di-*spoiler*-i Wikipedia. Dih, dasar walkot mesum.
+
+Saya baru menonton *opening* dan *ending*-nya di episode ini. Lagunya standar, lah.
