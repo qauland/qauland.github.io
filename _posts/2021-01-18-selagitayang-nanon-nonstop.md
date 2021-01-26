@@ -3,7 +3,7 @@ layout: post
 title:  "SelagiTayang: Non Non Biyori Nonstop"
 author: qauland
 tags: [ selagitayang, non non biyori ]
-image: https://i.postimg.cc/pVQjh6vJ/nnbs3.jpg
+image: https://i.postimg.cc/YCCxGnwP/125350203.png
 description: "Tulisan singkat terhadap seri animasi Non Non Biyori Nonstop."
 featured: false
 comments: true
@@ -29,3 +29,9 @@ Ngomong-ngomong, karakter barunya (Shinoda Akane) cukup menarik.
 *Megane-kun* jadi hantu. Yaa, memang sering begitu.
 
 Capek tertawa saat Hotaru *exposed*.
+
+### Episode 3 (27)
+
+Episode khusus kemistri antara Natsumi dan Hikage.
+
+Animasi pemandangannya ciamik sekali. *\*baru nyadar?*\*

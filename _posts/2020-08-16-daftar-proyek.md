@@ -5,10 +5,10 @@ author: qauland
 tags: [ proyek ]
 image: https://source.unsplash.com/800x350/daily?high-angle-view
 description: "Daftar berbagai proyek yang akan/sedang/pernah saya kerjakan."
-featured: true
+featured: false
 hidden: true
-comments: true
-last_modified_at: 2020-12-17
+comments: false
+last_modified_at: 2021-01-26
 ---
 
 Berikut adalah daftar berbagai proyek yang akan/sedang/pernah saya kerjakan.
@@ -24,7 +24,6 @@ Berikut adalah daftar berbagai proyek yang akan/sedang/pernah saya kerjakan.
 
 - ***Qauland's Sandbox***: Situs ini. [Lihat progress pengembangan di GitHub](https://github.com/qauland/qauland.github.io).
 - **Skripsi**: Proyek akhir perkuliahan saya. *Progress: 1% (pembuatan draft)*
-- **Laporan PPL** (Praktik Pengalaman Lapangan). *Progress: 98% (menunggu pengesahan dan penilaian)* 
 
 ## Berhenti dikerjakan
 
@@ -36,3 +35,4 @@ Berikut adalah daftar berbagai proyek yang akan/sedang/pernah saya kerjakan.
 - **Desain logo dan *cover* hari ulang tahun ke-21**
 - **Desain logo *custom* HUT RI ke-75**
 - **KKN-DK** (Kuliah Kerja Nyata Dari Kampung)
+- **PPL** (Praktik Pengalaman Lapangan) Daring
