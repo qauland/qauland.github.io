@@ -7,7 +7,7 @@ image: https://i.postimg.cc/YCCxGnwP/125350203.png
 description: "Tulisan singkat terhadap seri animasi Non Non Biyori Nonstop."
 featured: false
 comments: true
-last_modified_at: 2021-01-20
+last_modified_at: 2021-01-26
 ---
 
 *Non Non Biyori* (のんのんびより) adalah sebuah seri *manga* yang ditulis oleh Atto. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri animasi televisi oleh studio Silver Link pada bulan Oktober 2013, Juli 2015 (*season* 2/*Repeat*), dan Januari 2021 (*season* 3/*Nonstop*). Silver Link juga memproduksi sebuah film animasi berjudul *Non Non Biyori Vacation* yang dirilis pada Agustus 2018.
