@@ -7,7 +7,7 @@ image: https://i.postimg.cc/PJb1d6XK/ycs2.jpg
 description: "Tulisan singkat terhadap Laid-Back Camp Season 2."
 featured: false
 comments: true
-# last_modified_at: 2021-01-18
+last_modified_at: 2021-01-29
 ---
 
 *Laid-Back Camp* (ゆるキャン△/*Yuru Camp*△) adalah sebuah seri *manga* yang ditulis oleh Afro. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri animasi televisi oleh studio C-Station pada Januari 2018 (*season* 1) dan Januari 2021 (*season* 2). Secara garis besar, *Laid-Back Camp* menceritakan tentang kehidupan sehari-hari dari Kagamihara Nadeshiko & Shima Rin dan kawan-kawan yang berpusat pada petualangan mereka dalam menjelajahi berbagai lokasi berkemah di seantero Jepang.
@@ -35,3 +35,9 @@ Jadi pengen makan belut jug-- eh tunggu, itu satu porsi sedang harganya 400 ribu
 *Instant laugh* di bagian Nadeshiko *mbulet*. Ternyata dia pernah gendut, ya.
 
 Oh, karakter barunya (Toki Ayano) menarik.
+
+### Episode 4 (16)
+
+Waktunya untuk kembali bersekolah. Trio Aktivitas Luar Ruangan kembali nyantai seperti biasa.
+
+Setelah Rin di episode 2, kini giliran Nadeshiko yang lari.
