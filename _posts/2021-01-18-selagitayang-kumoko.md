@@ -7,7 +7,7 @@ image: https://i.postimg.cc/wMDw27Wb/125222191.png
 description: "Tulisan singkat terhadap seri animasi So I'm a Spider, So What?"
 featured: false
 comments: true
-last_modified_at: 2021-01-26
+last_modified_at: 2021-02-01
 ---
 
 *So I'm a Spider, So What?* (蜘蛛ですが、なにか？/*Kumo desu ga, Nani ka?*) adalah sebuah seri webnovel dan novel ringan/terang/cepat yang ditulis oleh Baba Okina. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (ditulis oleh Kakashi Asahiro, diterbitkan oleh Kadokawa Shoten) pada bulan Desember 2015, serta seri animasi televisi dan *so-called* Crunchyroll Originals oleh studio Millepensee pada bulan Januari 2021.
@@ -47,3 +47,11 @@ Itu ruangan kelasnya tinggi sekali, pas pembangunannya itu ndak ngabisin semen, 
 <p align=center><i>Naga Indosiar!</i></p>
 
 Kumoko sudah bertemu dengan Alaba, *let's go!*
+
+### Episode 4
+
+Episode khusus Kumoko. Seiyunya ndak capek kah bawain episode ini sendirian?
+
+Kayaknya adegan *magical girl* Kumoko itu di bagian ini, deh, cuma kayaknya ndak diadaptasi ke animenya...? Atau ingatan saya yang salah? Hmm... *Anyway*, pertarungan Kumoko melawan *bad 3DCG monkeys* itu seru juga.
+
+Selanjutnya, episode ikan lele!
