@@ -41,3 +41,15 @@ Oh, karakter barunya (Toki Ayano) menarik.
 Waktunya untuk kembali bersekolah. Trio Aktivitas Luar Ruangan kembali nyantai seperti biasa.
 
 Setelah Rin di episode 2, kini giliran Nadeshiko yang lari.
+
+### Episode 5 (17)
+
+Episode jasa perbaikan kipas angin.
+
+_No more comment for now_.
+
+### Episode 6 (18)
+
+Lanjutan dari episode sebelumnya. _Current objective: Survive?_
+
+Kayaknya luas sekali itu tenda, sampai bisa dipake bakar-bakar di dalamnya. Pasti harganya mahal.
