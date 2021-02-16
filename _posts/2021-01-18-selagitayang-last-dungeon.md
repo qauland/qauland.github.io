@@ -7,7 +7,7 @@ image: https://i.postimg.cc/7PdrxkNZ/105349512.png
 description: "Tulisan singkat terhadap seri animasi Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town."
 featured: false
 comments: true
-last_modified_at: 2021-01-29
+last_modified_at: 2021-02-16
 ---
 
 *Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town* (たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語/*Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu You na Monogatari*) adalah sebuah seri novel ringan yang judulnya sepanjang jalan kenangan kita s'lalu bergande-- *ehm*, ditulis oleh Satou Toshio. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (diterbitkan oleh Square Enix) pada bulan September 2017, serta seri animasi televisi oleh studio Liden Films pada bulan Januari 2021.
