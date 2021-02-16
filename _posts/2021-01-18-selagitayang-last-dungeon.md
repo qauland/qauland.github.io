@@ -39,3 +39,9 @@ Saya baru menonton *opening* dan *ending*-nya di episode ini. Lagunya standar, l
 Kedamaian pun tercipta berkat *ceramah no jutsu*.
 
 Akhirnya Lloyd bisa diterima di sekolah, *nyan*.
+
+### Episode 5
+
+Ke mana sudah ini alur ceritanya 😂
+
+Dahlah, _dropped_.
