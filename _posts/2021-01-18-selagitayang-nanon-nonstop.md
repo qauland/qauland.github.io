@@ -35,3 +35,15 @@ Capek tertawa saat Hotaru *exposed*.
 Episode khusus kemistri antara Natsumi dan Hikage.
 
 Animasi pemandangannya ciamik sekali. *\*baru nyadar?*\*
+
+### Episode 4 (28)
+
+*Bruh, new FBI bait.*
+
+Jadi, Renge, bagaimana rasanya jadi kakak?
+
+### Episode 5 (29)
+
+Obsesinya Hotaru cukup mengerikan...
+
+Boneka Koma masih bisa berfungsi walaupun sudah kelelep dalam air. Memang canggih.
