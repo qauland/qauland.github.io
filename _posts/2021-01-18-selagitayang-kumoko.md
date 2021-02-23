@@ -7,7 +7,7 @@ image: https://i.postimg.cc/wMDw27Wb/125222191.png
 description: "Tulisan singkat terhadap seri animasi So I'm a Spider, So What?"
 featured: false
 comments: true
-last_modified_at: 2021-02-19
+last_modified_at: 2021-02-24
 ---
 
 *So I'm a Spider, So What?* (蜘蛛ですが、なにか？/*Kumo desu ga, Nani ka?*) adalah sebuah seri webnovel dan novel ringan/terang/cepat yang ditulis oleh Baba Okina. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (ditulis oleh Kakashi Asahiro, diterbitkan oleh Kadokawa Shoten) pada bulan Desember 2015, serta seri animasi televisi dan *so-called* Crunchyroll Originals oleh studio Millepensee pada bulan Januari 2021.
@@ -71,3 +71,9 @@ Naganya gendutan yach *\*plak*\*
 Akhirnya Kumoko punya Parallel Will! (Atau, kalau menurut Ani-One, *juxtaposed will*.) Semoga episode ke depannya bakal se-*hillarious* komiknya.
 
 Demon Lord yang saya lupa namanya sudah punya waktu tayang.
+
+### Episode 7
+
+\#NowPlaying ryo (supercell) - World is Mine
+
+Koneksi ke admin D tidak pakai *smartphone*?
