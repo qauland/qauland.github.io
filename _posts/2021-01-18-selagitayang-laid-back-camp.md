@@ -7,7 +7,7 @@ image: https://i.postimg.cc/PJb1d6XK/ycs2.jpg
 description: "Tulisan singkat terhadap Laid-Back Camp Season 2."
 featured: false
 comments: true
-last_modified_at: 2021-02-16
+last_modified_at: 2021-02-24
 ---
 
 *Laid-Back Camp* (ゆるキャン△/*Yuru Camp*△) adalah sebuah seri *manga* yang ditulis oleh Afro. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri animasi televisi oleh studio C-Station pada Januari 2018 (*season* 1) dan Januari 2021 (*season* 2). Secara garis besar, *Laid-Back Camp* menceritakan tentang kehidupan sehari-hari dari Kagamihara Nadeshiko & Shima Rin dan kawan-kawan yang berpusat pada petualangan mereka dalam menjelajahi berbagai lokasi berkemah di seantero Jepang.
@@ -46,10 +46,16 @@ Setelah Rin di episode 2, kini giliran Nadeshiko yang lari.
 
 Episode jasa perbaikan kipas angin.
 
-_No more comment for now_.
+*No more comment for now*.
 
 ### Episode 6 (18)
 
-Lanjutan dari episode sebelumnya. _Current objective: Survive?_
+Lanjutan dari episode sebelumnya. *Current objective: Survive?*
 
 Kayaknya luas sekali itu tenda, sampai bisa dipake bakar-bakar di dalamnya. Pasti harganya mahal.
+
+### Episode 7 (19)
+
+Nadeshiko debut jadi *solo camper*~
+
+Sanggupkah dia jalan kaki lima kilometer sambil bawa perbekalan segede gaban?
