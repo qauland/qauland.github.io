@@ -5,6 +5,7 @@ author: qauland
 image: assets/images/maips-takresmi.png
 description: "Dibuat jauh sebelum saya kenal GitHub Pages."
 featured: true
+hidden: true
 comments: true
 ---
 
