@@ -91,7 +91,7 @@ Entah dari sononya, dari Ani-One, atau dari saya sendiri, tapi kualitas gambar e
 
 Admin Kuro akhirnya dapat jam tayang! *Yeah, I can't speak Isekaigo, too*. Masih menjadi misteri kenapa Ani-One bisa menerjemahkan Isekaigo dengan baik. Mungkin salah satu tukang takarirnya adalah admin D?
 
-Schlain *be like*: *Kumenangis... Membayangkan... Betapa kejamnya* Demon Clan\* *pada kakakku...*
+Shun *be like*: *Kumenangis... Membayangkan... Betapa kejamnya* Demon Clan *pada kakakku...*
 
 ### Episode 10
 
@@ -117,18 +117,20 @@ Kumoko akan melawan Alaba, *let's go!*
 
 Kurang ingat, sih, tapi kayaknya bukan begini akhir pertarungan Kumoko lawan Alaba di webnovel-nya... 🤔
 
-Selamat kepada Kumoko yang telah berhasil keluar dari labirin.
+Selamat kepada Kumoko yang telah berhasil keluar dari labirin. <span class="spoiler">Perang manusia-*demon* menantimu dalam ~15 tahun ke depan. Kenapa juga saya *spoiler*-i ini, toh ini sudah jadi pengetahuan umum.</span>
 
 ---
 
-Ulasan *cour* pertama:
+### Ulasan *cour* pertama
+
+*Rating* sementara: 3/5
 
 Saya masih kecewa karena awal-awal *side story* di webnovel ndak ikut diadaptasi. Terus *bad 3DCG* di mana-mana. Maksud saya, itu Naga Alaba bagus sekali di *visual art*-nya, kok di animenya jadi kurang bagus...
 
 Segmen Kumoko makin ke sini makin mengganggu. Entahlah, mungkin saya yang ndak nyaman dengar Kumoko ngomong sendiri.
 
-Naga temannya Shun belum punya kontribusi yang terlalu berarti di sini. Cuma berhasil mengalahkan naga Indosiar doang, itu pun kalau Shun dkk. yang mengalahkan kayaknya alur cerita selanjutnya ndak bakalan banyak berubah. Kayaknya, loh.
+Dari awal saya penasaran dengan perannya Feirune (saya selalu lupa namanya), tapi di *cour* ini dia belum punya kontribusi yang terlalu berarti. Cuma berhasil mengalahkan naga Indosiar doang, itu pun kalau Shun/Sue/Karnatia/Yuri yang mengalahkan kayaknya alur cerita selanjutnya ndak bakalan banyak berubah. Kayaknya, loh. Ada teaser di akhir kalau Fei akhirnya berevolusi (ber-*evolusi*, loh, ya, bukan be-*revolusi*)... Mungkin perannya akan signifikan di *cour* kedua.
 
 Dengan ini, maraton lima episode pun selesai. Saatnya menunggu episode 13 yang dijeda satu pekan.
 
-*Rating* sementara: 3/5
+---
