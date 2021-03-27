@@ -82,7 +82,7 @@ Koneksi ke admin D tidak pakai *smartphone*?
 
 Waktunya nostalgia. 
 
-Kumoko di episode kemarin belum ketemu admin D, toh. Btw segmennya dia kok makin annoying...
+Kumoko di episode kemarin belum ketemu admin D, toh. Btw segmennya dia kok makin *annoying*...
 
 ### Episode 9
 
@@ -111,3 +111,21 @@ Jadi, nama asli dari admin Kuro adalah Güleide-- Güliede-- Güli--
 Tauk ah, susah sekali namanya.
 
 Kumoko akan melawan Alaba, *let's go!*
+
+### Episode 12
+
+Kurang ingat, sih, tapi kayaknya bukan begini akhir pertarungan Kumoko lawan Alaba di webnovel-nya... 🤔
+
+Selamat kepada Kumoko yang telah berhasil keluar dari labirin.
+
+---
+
+Ulasan *cour* pertama:
+
+Saya masih kecewa karena awal-awal *side story* di webnovel ndak ikut diadaptasi. Terus *bad 3DCG* di mana-mana. Maksud saya, itu Naga Alaba bagus sekali di *visual art*-nya, kok di animenya jadi kurang bagus...
+
+Segmen Kumoko makin ke sini makin mengganggu. Entahlah, mungkin saya yang ndak nyaman dengar Kumoko ngomong sendiri.
+
+Naga temannya Shun belum punya kontribusi yang terlalu berarti di sini. Cuma berhasil mengalahkan naga Indosiar doang, itu pun kalau Shun dkk. yang mengalahkan kayaknya alur cerita selanjutnya ndak bakalan banyak berubah. Kayaknya, loh.
+
+Dengan ini, maraton lima episode pun selesai. Saatnya menunggu episode 13 yang dijeda satu pekan.
