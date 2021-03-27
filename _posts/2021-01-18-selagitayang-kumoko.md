@@ -8,6 +8,7 @@ description: "Tulisan singkat terhadap seri animasi So I'm a Spider, So What?"
 featured: false
 comments: true
 last_modified_at: 2021-03-27
+rating: 3.5
 ---
 
 *So I'm a Spider, So What?* (蜘蛛ですが、なにか？/*Kumo desu ga, Nani ka?*) adalah sebuah seri webnovel dan novel ringan/terang/cepat yang ditulis oleh Baba Okina. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (ditulis oleh Kakashi Asahiro, diterbitkan oleh Kadokawa Shoten) pada bulan Desember 2015, serta seri animasi televisi dan *so-called* Crunchyroll Originals oleh studio Millepensee pada bulan Januari 2021.
@@ -129,3 +130,5 @@ Segmen Kumoko makin ke sini makin mengganggu. Entahlah, mungkin saya yang ndak n
 Naga temannya Shun belum punya kontribusi yang terlalu berarti di sini. Cuma berhasil mengalahkan naga Indosiar doang, itu pun kalau Shun dkk. yang mengalahkan kayaknya alur cerita selanjutnya ndak bakalan banyak berubah. Kayaknya, loh.
 
 Dengan ini, maraton lima episode pun selesai. Saatnya menunggu episode 13 yang dijeda satu pekan.
+
+*Rating* sementara: 3/5
