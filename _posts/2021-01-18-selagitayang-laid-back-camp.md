@@ -76,4 +76,18 @@ Enaknya punya kakek yang perhatian. *Btw* naik motor pukul tiga pagi itu rasanya
 
 ![](https://i.postimg.cc/FFZK2rHD/Screenshot-2021-03-12-08-58-08-90-2.png)
 
-<p align="center"><i>Ini saya kalau numpang naik mobil.</i></p>
+<p align="center"><i>Ini saya pas numpang naik mobil.</i></p>
+
+Dasar kakak-adik tukang ngibul.
+
+### Episode 11 (23)
+
+Sekarang kakaknya yang ngibul.
+
+Dan begitulah bagaimana *visual art* musim ini terbentuk.
+
+### Episode 12 (24)
+
+Selamat ulang tahun (lagi), Aoi dan Nadeshiko!
+
+Naik gunung dengan trek sepanjang 500 m sih udah mirip Chiaki saya.
