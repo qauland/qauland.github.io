@@ -7,7 +7,7 @@ image: https://i.postimg.cc/wMDw27Wb/125222191.png
 description: "Tulisan singkat terhadap seri animasi So I'm a Spider, So What?"
 featured: false
 comments: true
-last_modified_at: 2021-02-24
+last_modified_at: 2021-03-27
 ---
 
 *So I'm a Spider, So What?* (蜘蛛ですが、なにか？/*Kumo desu ga, Nani ka?*) adalah sebuah seri webnovel dan novel ringan/terang/cepat yang ditulis oleh Baba Okina. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (ditulis oleh Kakashi Asahiro, diterbitkan oleh Kadokawa Shoten) pada bulan Desember 2015, serta seri animasi televisi dan *so-called* Crunchyroll Originals oleh studio Millepensee pada bulan Januari 2021.
@@ -77,3 +77,37 @@ Demon Lord yang saya lupa namanya sudah punya waktu tayang.
 \#NowPlaying ryo (supercell) - World is Mine
 
 Koneksi ke admin D tidak pakai *smartphone*?
+
+### Episode 8
+
+Waktunya nostalgia. 
+
+Kumoko di episode kemarin belum ketemu admin D, toh. Btw segmennya dia kok makin annoying...
+
+### Episode 9
+
+Entah dari sononya, dari Ani-One, atau dari saya sendiri, tapi kualitas gambar episode ini agak *blurry*.
+
+Admin Kuro akhirnya dapat jam tayang! *Yeah, I can't speak Isekaigo, too*. Masih menjadi misteri kenapa Ani-One bisa menerjemahkan Isekaigo dengan baik. Mungkin salah satu tukang takarirnya adalah admin D?
+
+Schlain *be like*: *Kumenangis... Membayangkan... Betapa kejamnya* Demon Clan\* *pada kakakku...*
+
+### Episode 10
+
+Masih *blurry*. *Also,* Kumenangis *part 2*.
+
+Hadeh, biar di *isekai* juga masih pake kilometer. Gunakan satuan panjang sendiri, hei. Ndak kreatif sekali.
+
+Ah, Forbidden Lv10.
+
+### Episode 11
+
+*Take 7, camera, action!*
+
+Jadi, nama asli dari admin Kuro adalah Güleide-- Güliede-- Güli--
+
+*Cut!*
+
+Tauk ah, susah sekali namanya.
+
+Kumoko akan melawan Alaba, *let's go!*
