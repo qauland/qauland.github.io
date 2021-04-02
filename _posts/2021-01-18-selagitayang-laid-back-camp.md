@@ -7,7 +7,8 @@ image: https://i.postimg.cc/PJb1d6XK/ycs2.jpg
 description: "Tulisan singkat terhadap Laid-Back Camp Season 2."
 featured: false
 comments: true
-last_modified_at: 2021-03-27
+last_modified_at: 2021-04-02
+rating: 4.5
 ---
 
 *Laid-Back Camp* (ゆるキャン△/*Yuru Camp*△) adalah sebuah seri *manga* yang ditulis oleh Afro. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri animasi televisi oleh studio C-Station pada Januari 2018 (*season* 1) dan Januari 2021 (*season* 2). Secara garis besar, *Laid-Back Camp* menceritakan tentang kehidupan sehari-hari dari Kagamihara Nadeshiko & Shima Rin dan kawan-kawan yang berpusat pada petualangan mereka dalam menjelajahi berbagai lokasi berkemah di seantero Jepang.
@@ -90,4 +91,18 @@ Dan begitulah bagaimana *visual art* musim ini terbentuk.
 
 Selamat ulang tahun (lagi), Aoi dan Nadeshiko!
 
-Naik gunung dengan trek sepanjang 500 m sih udah mirip Chiaki saya.
+Naik gunung dengan trek sepanjang 500 meter sih udah mirip Chiaki saya.
+
+### Episode 13 (25)
+
+Ngomong-ngomong soal kapibara, entah kenapa rekomendasi YouTube-ku dipenuhi binatang itu.
+
+Waktunya pulang ke rumah masing-masing.
+
+---
+
+### Ulasan
+
+Sedikit lebih lemah dibandingkan dengan musim pertamanya, tapi masih bagus, kok. Satu-satunya yang saya kurang sukai di musim keduanya ini adalah servis kipas anginnya yang lebih banyak.
+
+---
