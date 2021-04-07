@@ -95,6 +95,8 @@ Apa yang mau diulas? Ini Non Non Biyori, seperti biasa.
 
 Akhirnya selesai juga. Tidak terasa, saya sudah mengikuti seri ini sejak... kapan, ya, lima tahun lalu? Sebenarnya saya masih berharap seri ini bisa dapat film, video animasi asli, atau musim baru, tapi berhubung seri komiknya sudah selesai, jadi ya kecil kemungkinannya.
 
-Dengan berakhirnya postingan ini,
+Dengan berakhirnya postingan ini...
 
-selamat tinggal, Non Non Biyori.
+![](https://i.postimg.cc/7PRP4r2J/nnbs3-2.jpg)
+
+Selamat tinggal, Non Non Biyori.
