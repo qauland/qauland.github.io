@@ -7,12 +7,13 @@ image: https://i.postimg.cc/YCCxGnwP/125350203.png
 description: "Tulisan singkat terhadap seri animasi Non Non Biyori Nonstop."
 featured: false
 comments: true
-last_modified_at: 2021-02-24
+last_modified_at: 2021-04-07
+rating: 4.5
 ---
 
 *Non Non Biyori* (のんのんびより) adalah sebuah seri *manga* yang ditulis oleh Atto. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri animasi televisi oleh studio Silver Link pada bulan Oktober 2013, Juli 2015 (*season* 2/*Repeat*), dan Januari 2021 (*season* 3/*Nonstop*). Silver Link juga memproduksi sebuah film animasi berjudul *Non Non Biyori Vacation* yang dirilis pada Agustus 2018.
 
-*Non Non Biyori* menceritakan tentang keseharian Miyauchi Renge, Ichijou Hotaru, Koshigaya Natsumi, Koshigaya Komari, dan penduduk desa Asahigaoka lainnya. Desa ini sebegitu terpencilnya sampai-sampai satu-satunya sekolah yang ada di desa tersebut, Asahigaoka Branch School, hanya memiliki lima orang murid/siswa yang berada di jenjang SD dan SMP.
+*Non Non Biyori* menceritakan tentang keseharian Miyauchi Renge, Ichijou Hotaru, Koshigaya Natsumi, Koshigaya Komari, dan penduduk desa Asahigaoka lainnya. Desa ini sebegitu terpencilnya sampai-sampai satu-satunya sekolah yang ada di desa tersebut, Sekolah Cabang Asahigaoka, hanya memiliki lima orang murid/siswa yang berada di jenjang SD dan SMP.
 
 > Penyangkalan: Pos ini hanya mengulas(?) "Non Non Biyori Nonstop" secara singkat. Tulisan di bawah merupakan opini pribadi penulis dan tidak mencerminkan kualitas sebenarnya dari seri ini.
 
@@ -59,3 +60,41 @@ Betul, Renge. Bumi itu tidak berbentuk bulat, [melainkan berbentuk dinosaurus](<
 *Natsumi died*.
 
 Hei, saya ingat sungai itu. Dari sungai itu saya belajar kalau makan semangka lebih enak jika ditaburi sejumput garam.
+
+### Episode 8
+
+Natsumi menggali lubang yang lebih dalam.
+
+*Nice performance*, Akane.
+
+### Episode 9
+
+Komari perlu dijauhkan dari dapur, kayaknya.
+
+### Episode 10
+
+Wah, sudah bersalju.
+
+Entah kenapa jadi teringat episo-- err, film Okinawa.
+
+### Episode 11
+
+Lah, sudah musim semi lagi.
+
+Ndak nyangka ada episode mbak jajanan a.k.a Kaede.
+
+### Episode 12
+
+Selamat atas kelulusannya, Koshigaya Suguru.
+
+Wow, tiba-tiba saja ada drama... Mantap *plot development*-nya. Btw nama yang bagus, bund.
+
+### Ulasan
+
+Apa yang mau diulas? Ini Non Non Biyori, seperti biasa.
+
+Akhirnya selesai juga. Tidak terasa, saya sudah mengikuti seri ini sejak... kapan, ya, lima tahun lalu? Sebenarnya saya masih berharap seri ini bisa dapat film, video animasi asli, atau musim baru, tapi berhubung seri komiknya sudah selesai, jadi ya kecil kemungkinannya.
+
+Dengan berakhirnya postingan ini,
+
+selamat tinggal, Non Non Biyori.
