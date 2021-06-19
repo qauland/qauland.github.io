@@ -3,12 +3,11 @@ layout: post
 title:  "SelagiTayang: So I'm a Spider, So What?"
 author: qauland
 tags: [ selagitayang, kumo desu ga nani ka, so im a spider so what ]
-image: https://i.postimg.cc/jWzV1pNp/106191022-1.jpg
+image: https://i.postimg.cc/wMDw27Wb/125222191.png
 description: "Tulisan singkat terhadap seri animasi So I'm a Spider, So What?"
 featured: false
 comments: true
-last_modified_at: 2021-03-27
-rating: 3
+last_modified_at: 2021-06-19
 ---
 
 *So I'm a Spider, So What?* (蜘蛛ですが、なにか？/*Kumo desu ga, Nani ka?*) adalah sebuah seri webnovel dan novel ringan/terang/cepat yang ditulis oleh Baba Okina. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (ditulis oleh Kakashi Asahiro, diterbitkan oleh Kadokawa Shoten) pada bulan Desember 2015, serta seri animasi televisi dan *so-called* Crunchyroll Originals oleh studio Millepensee pada bulan Januari 2021.

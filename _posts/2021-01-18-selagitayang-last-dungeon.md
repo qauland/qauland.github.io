@@ -3,7 +3,7 @@ layout: post
 title:  "SelagiTayang: Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town"
 author: qauland
 tags: [ selagitayang, last dungeon ]
-image: https://i.postimg.cc/4mSTHbsS/105349512-1.jpg
+image: https://i.postimg.cc/7PdrxkNZ/105349512.png
 description: "Tulisan singkat terhadap seri animasi Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town."
 featured: false
 comments: true
