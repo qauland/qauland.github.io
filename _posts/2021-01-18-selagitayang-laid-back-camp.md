@@ -3,7 +3,7 @@ layout: post
 title:  "SelagiTayang: Laid-Back Camp Season 2"
 author: qauland
 tags: [ selagitayang, yuru camp, laid-back camp ]
-image: https://i.postimg.cc/PJb1d6XK/ycs2.jpg
+image: https://i.postimg.cc/rd6XQVdG/106191021-1.jpg
 description: "Tulisan singkat terhadap Laid-Back Camp Season 2."
 featured: false
 comments: true

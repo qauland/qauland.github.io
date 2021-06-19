@@ -3,7 +3,7 @@ layout: post
 title:  "SelagiTayang: Non Non Biyori Nonstop"
 author: qauland
 tags: [ selagitayang, non non biyori ]
-image: https://i.postimg.cc/YCCxGnwP/125350203.png
+image: https://i.postimg.cc/3k0QX4wJ/125350203-1.jpg
 description: "Tulisan singkat terhadap seri animasi Non Non Biyori Nonstop."
 featured: false
 comments: true
