@@ -3,7 +3,7 @@ layout: post
 title:  "SelagiTayang: So I'm a Spider, So What?"
 author: qauland
 tags: [ selagitayang, kumo desu ga nani ka, so im a spider so what ]
-image: https://i.postimg.cc/jWzV1pNp/106191022-1.jpg
+image: https://i.postimg.cc/wMDw27Wb/125222191.png
 description: "Tulisan singkat terhadap seri animasi So I'm a Spider, So What?"
 featured: false
 comments: true
@@ -121,84 +121,16 @@ Selamat kepada Kumoko yang telah berhasil keluar dari labirin. <span class="spoi
 
 ---
 
-### Episode 13
+### Ulasan *cour* pertama
 
-Sebagai pengingat: Keluar dari labirin.
+*Rating* sementara: 3/5
 
-Oh, barusan saya lihat Anna. Harusnya kalau mereka ikut mengadaptasi cerita S1, dia akan muncul lebih awal. *UUUHHHH WHAT THE HECK IS THAT ZOOM-OUT EFFECT?!*
+Saya masih kecewa karena awal-awal *side story* di webnovel ndak ikut diadaptasi. Terus *bad 3DCG* di mana-mana. Maksud saya, itu Naga Alaba bagus sekali di *visual art*-nya, kok di animenya jadi kurang bagus...
 
-Sudah pernahkah saya tulis kalau 3DCG bagus di battle scene?
+Segmen Kumoko makin ke sini makin mengganggu. Entahlah, mungkin saya yang ndak nyaman dengar Kumoko ngomong sendiri.
 
-### Episode 14
+Dari awal saya penasaran dengan perannya Feirune (saya selalu lupa namanya), tapi di *cour* ini dia belum punya kontribusi yang terlalu berarti. Cuma berhasil mengalahkan naga Indosiar doang, itu pun kalau Shun/Sue/Karnatia/Yuri yang mengalahkan kayaknya alur cerita selanjutnya ndak bakalan banyak berubah. Kayaknya, loh. Ada teaser di akhir kalau Fei akhirnya berevolusi (ber-*evolusi*, loh, ya, bukan be-*revolusi*)... Mungkin perannya akan signifikan di *cour* kedua.
 
-Awal pertemuan Kumoko dengan Negi-- err, Sophia. Teruslah berimajinasi, Kumoko, saya suka.
+Dengan ini, maraton lima episode pun selesai. Saatnya menunggu episode 13 yang dijeda satu pekan.
 
-...dan sepertinya di sinilah perbedaan antara web novel dan adaptasi dari novel ringannya. Sayang sekali karena saya tidak bisa memberikan spoiler lagi :/
-
-Fei gendutan yach \*plak\*
-
-### Episode 15
-
-Yha, baru saja keluar dari labirin, udah masuk lagi. Tapi karena itu, Kumoko selangkah lebih dekat menuju Arachne. Btw ini alur ceritanya beda jauh dengan komiknya. Stau.
-
-AKHIRNYA! PETA! *Woohoo* untuk pertama kalinya saya lihat peta dunia lainnya Kumoko dkk.
-
-### Episode 16
-
-Ooh, keren, Fei bisa berubah jadi manusia. Tapi ndak kaget, toh Kumoko juga bisa. *That teleport skill* muncul lagi.
-
-<span class="spoiler">Kita punya detail sekarang. Ada 26 orang dalam satu kelas, di mana semuanya direinkarnasi... kecuali satu orang. Jadi, 25. Tapi admin D bilang tetap 26 yang direinkarnasi. Jadi ingat waktu saya baca webnovel-nya dulu, ada satu orang yang selalu berkomentar tentang "teori" yang dia miliki. Katanya, 26 yang direinkarnasi itu terdiri dari 25 orang serta 1 ekor laba-laba yang kebetulan ada di kelas itu dan diberikan ingatan oleh admin sehingga menjadi Kumoko. Eh, pas mendekati bab 300, ternyata itu yang beneran terjadi. Singkatnya, dia nge-spoiler tapi caranya tidak seperti orang yang memberikan spoiler.</span>
-
-*I hate you, you stupid beach!!!*
-
-Kumoko cincang, siap dinikmati.
-
-### Episode 17
-
-Petunjuknya blak-blakan sekali, astaga. Tapi tetap harus skeptis... Fei adalah sebuah perubahan besar dari versi webnovel, jadi alur ceritanya tentu bisa berubah drastis ke depannya.
-
-Terbang 90 derajat tanpa terjatuh cuma dengan pegangan. Benar-benar *isekai*.
-
-### Episode 18
-
-Episode Sophia‽
-
-Bapak Potimas dapat jam tayang!
-
-Kumoko penyelamat warga‽
-
-### Episode 19
-
-Gimana rasanya jadi maskot, Kumoko?
-
-Reunian siswa/siswi SMA angkatan kesekian. Sayangnya beberapa ndak bisa hadir karena masih sibuk atau telah berpulang. Waktu ngikut seri webnovel-nya dulu, banyak pembaca di kolom komentar yang ikut hitung-hitungan tentang jumlah siswa/siswi yang masih hidup dengan yang sudah mati.
-
-Dan emaknya Kumoko isded. Btw admin Kuro lagi ngapain, ya.
-
-### Episode 20
-
-Lah barusan diomongin langsung muncul dia. Gimana rasanya jadi penyebab peperangan, Kumoko?
-
-Episode Oka-sensei. Mantap juga, masih memprioritaskan siswa-siswinya biar di dunia lain. Guru teladan? 🤔
-
-### Episode 21
-
-LET'S GOOO!!! \*insert Battlefield 1 theme here\*
-
-Ucapannya cewek yang rambut putih (saya lupa namanya) somehow mengingatkanku pada karakter Caliph(?) dari Stronghold Crusader.
-
-> Sudah pernahkah saya tulis kalau 3DCG bagus di battle scene?
-
-Iya memang bagus, tapi kalau 3DCG-nya bentuk manusia ya jele abis.
-
-### Episode 22
-
-Ariel mulai berubah, kisanak.
-
-Ndak nyangka bisa lihat Julius lagi... dalam bentuk lain.
-
-### Episode 23
-
-*Skip*. Terlalu banyak bacot.
-
-Sisa satu episode lagi, saya tebak *ending*-nya nggantung.
+---
