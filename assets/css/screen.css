@@ -985,3 +985,17 @@ em {
     font-style: italic;
     font-feature-settings: "cv05", "cv08", "cv11";
 }
+
+.col-md-6, .nav-link, .launch-modal-search {
+    font-family: Inter;
+    font-feature-settings: "cv05", "cv08";
+}
+
+/** @media (min-width: 768px)
+.col-md-6 {	
+} **/
+
+.lunrsearchresult {
+    font-family: Inter;
+    font-feature-settings: "cv05", "cv08";
+}
