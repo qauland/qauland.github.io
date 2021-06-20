@@ -3,6 +3,7 @@ layout: post
 title:  "SelagiTayang: Super Cub"
 author: qauland
 tags: [ selagitayang, super cub ]
+image: https://i.postimg.cc/02PH4dh0/120060935-1.jpg
 description: "Tulisan singkat terhadap seri animasi Super Cub."
 featured: false
 comments: true

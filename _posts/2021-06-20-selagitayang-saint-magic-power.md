@@ -3,6 +3,7 @@ layout: post
 title:  "SelagiTayang: The Saint's Magic Power is Omnipotent"
 author: qauland
 tags: [ selagitayang, saint's magic power ]
+image: https://i.postimg.cc/5NgkWQVd/120060933-1.jpg
 description: "Tulisan singkat terhadap seri animasi The Saint's Magic Power is Omnipotent."
 featured: false
 comments: true
