@@ -6,8 +6,10 @@ tags: [ chart.js ]
 description: "Skor pribadi saya untuk beberapa anime musiman, dalam Chart.js"
 featured: false
 comments: true
-last_modified_at: 2021-06-20
+last_modified_at: 2021-06-23
 ---
+
+Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus.
 
 > Penafian: Ini adalah skor personal saya dan tidak mencerminkan kualitas anime yang sebenarnya. Skor sebelum 1 April 2021 mungkin tidak akurat.
 
@@ -201,6 +203,7 @@ last_modified_at: 2021-06-20
                     { x: "210601 2230", y: 8.7 }, //9
                     { x: "210608 2230", y: 8.9 },
                     { x: "210615 2230", y: 8.8 }, //11
+                    { x: "210622 2230", y: 8.9 },
                     { x: "210623 2230", y: NaN }
                     ],
                     fill:  false,
@@ -351,3 +354,118 @@ last_modified_at: 2021-06-20
     }
 </script>
 
+<!-- for individual
+
+<div class="chart-container" style="position: relative; margin: auto; height: 400px; width: 550px;">
+	<canvas id="canvas"></canvas>
+</div>
+<script> //Code adapted from https://embed.plnkr.co/JOI1fpgWIS0lvTeLUxUp/
+	
+    var timeFormat = 'YYMMDD HHmm';
+    
+	Chart.defaults.global.defaultFontFamily = 'Inter';
+	
+	function divideVotes(vote) {
+		var dvote = vote;
+		return dvote.toLocaleString("id-ID");
+	}
+	
+    var config = {
+        type:    'line',
+        data:    {
+            datasets: [
+                {
+                    label: "Seijo no Maryoku wa Bannou desu",
+                    data: [
+                    { x: "210405 2230", y: NaN },
+                    { x: "210406 2230", y: 8.4 }, //1
+                    { x: "210413 2230", y: 8.5 },
+                    { x: "210420 2230", y: 8.4 }, //3
+                    { x: "210427 2230", y: 8.3 },
+                    { x: "210504 2230", y: 8.4 }, //5
+                    { x: "210511 2230", y: 8.4 },
+                    { x: "210518 2230", y: 8.5 }, //7
+                    { x: "210525 2230", y: 8.7 },
+                    { x: "210601 2230", y: 8.7 }, //9
+                    { x: "210608 2230", y: 8.9 },
+                    { x: "210615 2230", y: 8.8 }, //11
+                    { x: "210622 2230", y: 8.9 },
+                    { x: "210623 2230", y: NaN }
+                    ],
+                    fill:  false,
+                    backgroundColor: 'rgba(160,82,45,0.5)',
+                    borderColor: 'sienna',
+                    pointBackgroundColor: 'sienna',
+                    pointRadius: 3
+                }
+            ]
+        },
+        options: {
+            maintainAspectRatio: false,
+            responsive: true,
+            title:      {
+                display: true,
+                text:    ['Personal Score Progression (Spring 2021)'],
+                fontSize: 18
+            },
+            scales:     {
+                xAxes: [{
+                    type:       "time",
+                    time:       {
+                        unit: 'month',
+                        displayFormats: {
+                        	hour: 'DD MMM HH:mm',
+                        	day: 'DD MMM YYYY'
+                        },
+                        unitStepSize: 1,
+                        parser: timeFormat,
+                        tooltipFormat: 'DD MMM YYYY HH:mm'
+                    },
+                    scaleLabel: {
+                        display:     true,
+                        labelString: 'Date aired (in WITA)'
+                    }
+                }],
+                yAxes: [{
+                    scaleLabel: {
+                        display:     true,
+                        labelString: 'Score'
+                    },
+                    ticks: {
+                    	userCallback: function(value) {
+                    				return divideVotes(value);
+                    	},
+                    	min: 7.0,
+                    	max: 10.0
+                    }
+                }]
+            },
+           tooltips: {  //Code taken from https://github.com/chartjs/Chart.js/issues/411#issuecomment-289196968
+                enabled: true,
+
+                callbacks: {
+                        label: function (tooltipItems, data) {
+                        return data.datasets[tooltipItems.datasetIndex].label + ': ' + tooltipItems.yLabel.toLocaleString("id-ID");
+                    }
+                }
+            },
+            elements: {
+            	line: {
+                	tension: 0 // disables bezier curves
+                	
+            	}
+        	}/*,
+        	legend: {
+        		labels: {
+        			fontSize: 14
+        		}
+        	}*/
+        }
+    };
+
+    window.onload = function () {
+        var ctx       = document.getElementById("canvas").getContext("2d");
+        window.myLine = new Chart(ctx, config);
+    }
+</script>
+-->

@@ -7,7 +7,8 @@ image: https://i.postimg.cc/5NgkWQVd/120060933-1.jpg
 description: "Tulisan singkat terhadap seri animasi The Saint's Magic Power is Omnipotent."
 featured: false
 comments: true
-<!--last_modified_at: 2021-06-19-->
+rating: 4
+last_modified_at: 2021-06-23
 ---
 
 *The Saint's Magic Power is Omnipotent* (聖女の魔力は万能です/*Seijo no Maryoku wa Bannou Desu*) adalah sebuah seri novel ringan yang ditulis oleh Tachibana Yuka. Saat pos ini ditulis, seri ini telah diadaptasi ke dalam seri *manga* (diterbitkan oleh Kadokawa Shoten) pada bulan Juli 2017, serta seri animasi televisi oleh studio Diomedéa pada bulan April 2021.
@@ -83,3 +84,15 @@ Ketemu dah mereka berdua.
 Kukira brankasnya pake kunci nomor kayak di gim *The Last of Us*.
 
 🚢 Poooooooot~! Keraskan klakson!
+
+### Episode 11
+
+Latihan mengendalikan sihir.
+
+Ekspedisi membasmi monster bagian 2. Itu kenapa bisa langsung *teleport* ke hutan, oi?!
+
+### Episode 12
+
+**OP jaog sram laksek** (3).
+
+Skuy lah pulang balik ke kota asal. *Has she figured it out?*
