@@ -6,7 +6,7 @@ tags: [ chart.js ]
 description: "Skor pribadi saya untuk beberapa anime musiman, dalam Chart.js"
 featured: false
 comments: true
-last_modified_at: 2021-06-23
+last_modified_at: 2021-07-12
 ---
 
 Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus.
@@ -14,6 +14,7 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
 > Penafian: Ini adalah skor personal saya dan tidak mencerminkan kualitas anime yang sebenarnya. Skor sebelum 1 April 2021 mungkin tidak akurat.
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.8.0/Chart.bundle.js"></script>
+
 <div class="chart-container" style="position: relative; margin: auto; height: 90vh; width: 60vw;">
 	<canvas id="canvas"></canvas>
 </div>
@@ -32,6 +33,32 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
         type:    'line',
         data:    {
             datasets: [
+                {
+                    label: "Bokutachi no Remake (Remake Our Life!)",
+                    data: [
+                    { x: "210702 2030", y: NaN },
+                    { x: "210703 2030", y: 7.8 }, //1
+                    { x: "210704 2030", y: NaN }
+                    ],
+                    fill: false,
+                    backgroundColor: 'rgba(0,0,175,0.5)',
+                    borderColor: 'rgb(0,0,175)',
+                    pointBackgroundColor: 'rgb(0,0,175)',
+                    pointRadius: 3
+                },
+                {
+                    label: "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore",
+                    data: [
+                    { x: "210706 2100", y: NaN },
+                    { x: "210707 2100", y: 6.8 }, //1
+                    { x: "210708 2100", y: NaN }
+                    ],
+                    fill: false,
+                    backgroundColor: 'rgba(255,255,255,0.5)',
+                    borderColor: 'yellow',
+                    pointBackgroundColor: 'white',
+                    pointRadius: 3
+                },
                 {
                     label: "Kumo desu ga, Nani ka?",
                     data: [
@@ -59,6 +86,7 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
                     { x: "210604 2030", y: 7.3 }, //21
                     { x: "210611 2030", y: 7.3 },
                     { x: "210618 2030", y: 7.0 }, //23
+                    { x: "210625 2030", y: 7.1 },
                     { x: "210626 2030", y: NaN }
                     ],
                     fill: false,
@@ -227,6 +255,7 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
                     { x: "210605 2000", y: 6.3 }, //9
                     { x: "210612 2000", y: 6.3 },
                     { x: "210619 2000", y: 6.3 }, //11
+                    { x: "210626 2000", y: 6.4 },
                     { x: "210427 2000", y: NaN }
                     ],
                     fill:  false,
@@ -256,6 +285,19 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
                     backgroundColor: 'rgba(0,0,0,0.5)',
                     borderColor: 'black',
                     pointBackgroundColor: 'black',
+                    pointRadius: 3
+                },
+                {
+                    label: "Tantei wa Mou, Shindeiru.",
+                    data: [
+                    { x: "210703 2030", y: NaN },
+                    { x: "210704 2030", y: 7.2 }, //1
+                    { x: "210705 2030", y: NaN }
+                    ],
+                    fill: false,
+                    backgroundColor: 'rgba(255,255,255,0.5)',
+                    borderColor: 'black',
+                    pointBackgroundColor: 'white',
                     pointRadius: 3
                 },
                 {
@@ -302,7 +344,7 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
                         	hour: 'DD MMM HH:mm',
                         	day: 'DD MMM YYYY'
                         },
-                        unitStepSize: 1,
+                        unitStepSize: 3,
                         parser: timeFormat,
                         tooltipFormat: 'DD MMM YYYY HH:mm'
                     },
@@ -320,8 +362,8 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
                     	userCallback: function(value) {
                     				return divideVotes(value);
                     	},
-                    	min: 5.5,
-                    	max: 10.0
+                    	min: 6,
+                    	max: 10
                     }
                 }]
             },
@@ -330,7 +372,7 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
 
                 callbacks: {
                         label: function (tooltipItems, data) {
-                        return data.datasets[tooltipItems.datasetIndex].label + ': ' + tooltipItems.yLabel.toLocaleString("id-ID");
+                        return '"' + data.datasets[tooltipItems.datasetIndex].label + '": ' + tooltipItems.yLabel.toLocaleString("id-ID");
                     }
                 }
             },
@@ -375,27 +417,27 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
         data:    {
             datasets: [
                 {
-                    label: "Seijo no Maryoku wa Bannou desu",
+                    label: "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita",
                     data: [
-                    { x: "210405 2230", y: NaN },
-                    { x: "210406 2230", y: 8.4 }, //1
-                    { x: "210413 2230", y: 8.5 },
-                    { x: "210420 2230", y: 8.4 }, //3
-                    { x: "210427 2230", y: 8.3 },
-                    { x: "210504 2230", y: 8.4 }, //5
-                    { x: "210511 2230", y: 8.4 },
-                    { x: "210518 2230", y: 8.5 }, //7
-                    { x: "210525 2230", y: 8.7 },
-                    { x: "210601 2230", y: 8.7 }, //9
-                    { x: "210608 2230", y: 8.9 },
-                    { x: "210615 2230", y: 8.8 }, //11
-                    { x: "210622 2230", y: 8.9 },
-                    { x: "210623 2230", y: NaN }
+                    { x: "210409 2000", y: NaN },
+                    { x: "210410 2000", y: 8.5 }, //1
+                    { x: "210417 2000", y: 8.5 },
+                    { x: "210424 2000", y: 7.7 }, //3
+                    { x: "210501 2000", y: 7.5 },
+                    { x: "210508 2000", y: 7.6 }, //5
+                    { x: "210515 2000", y: 7.3 },
+                    { x: "210522 2000", y: 6.8 }, //7
+                    { x: "210529 2000", y: 6.3 },
+                    { x: "210605 2000", y: 6.3 }, //9
+                    { x: "210612 2000", y: 6.3 },
+                    { x: "210619 2000", y: 6.3 }, //11
+                    { x: "210626 2000", y: 6.4 },
+                    { x: "210427 2000", y: NaN }
                     ],
                     fill:  false,
-                    backgroundColor: 'rgba(160,82,45,0.5)',
-                    borderColor: 'sienna',
-                    pointBackgroundColor: 'sienna',
+                    backgroundColor: 'rgba(125,251,152,0.5)',
+                    borderColor: 'skyblue',
+                    pointBackgroundColor: 'palegreen',
                     pointRadius: 3
                 }
             ]
@@ -435,7 +477,7 @@ Buka artikel ini di *desktop* untuk mendapatkan tata letak (*layout*) yang bagus
                     	userCallback: function(value) {
                     				return divideVotes(value);
                     	},
-                    	min: 7.0,
+                    	min: 6.0,
                     	max: 10.0
                     }
                 }]
